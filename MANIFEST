@@ -1,0 +1,13 @@
+Changes
+lib/URI/Title.pm
+lib/URI/Title/HTML.pm
+lib/URI/Title/Image.pm
+lib/URI/Title/MP3.pm
+lib/URI/Title/PDF.pm
+Makefile.PL
+MANIFEST
+t/00bootstrap.t
+t/failure.t
+t/html.t
+t/other.t
+title.pl
